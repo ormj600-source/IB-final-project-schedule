@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=AddSchedule1
+comment1.params=allmenu
+comment1.target=AddSchedule1(Allmenu)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=boolean\ AddSchedule1TextFieldsAreEmpty()
+comment4.params=
+comment4.target=boolean\ AddHigherLevelComboBoxesAreEmpty()
+comment5.params=
+comment5.target=boolean\ AddGradesComboBoxesAreEmpty()
+comment6.params=
+comment6.target=boolean\ AddGradesWantedComboBoxesAreEmpty()
+comment7.params=
+comment7.target=boolean\ AddTestUpcomingComboBoxesAreEmpty()
+comment8.params=
+comment8.target=boolean\ AddIsHarComboBoxesAreEmpty()
+comment9.params=
+comment9.target=boolean\ TimeToStudyfieldsAreEmpty()
+numComments=10

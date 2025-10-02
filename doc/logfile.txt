@@ -1,0 +1,360 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-jupiter-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-api-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-migrationsupport-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-params-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-commons-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-console-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-console-standalone-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-engine-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-launcher-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-reporting-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-runner-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-suite-api-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-testkit-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-quickcheck-core-0.9.jar;C:\Program Files\BlueJ\lib\junit-vintage-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files\BlueJ\lib\hamcrest-library-1.3.jar;C:\Program Files\BlueJ\lib\lang-stride.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.base.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.controls.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.fxml.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.graphics.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.media.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.properties.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.swing.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.web.jar;C:\Users\ormj6\schedulingapp
+-d
+C:\Users\ormj6\schedulingapp\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\ormj6\schedulingapp\AddSchedule1.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\ormj6\schedulingapp\AddSchedule1.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.14.1
+Building tree for all the packages and classes...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.AddGrades.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.AddGradesWanted.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.AddHigherLevel.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.AddIsHard.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.AddTestUpcoming.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.AddTimeToStudy.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.ButtonListener.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.ButtonListener1.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.ButtonListener2.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.ButtonListener3.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.ButtonListener4.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.ButtonListener5.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.ButtonListener6.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.EighthFrame.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.FifthFrame.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.FourthFrame.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.NinthFrame.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.OutPutSchedule.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.PrioritySystem.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.SeventhFrame.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.SixthFrame.html...
+Generating C:\Users\ormj6\schedulingapp\doc\AddSchedule1.ThirdFrame.html...
+Generating C:\Users\ormj6\schedulingapp\doc\package-summary.html...
+Generating C:\Users\ormj6\schedulingapp\doc\constant-values.html...
+Generating C:\Users\ormj6\schedulingapp\doc\serialized-form.html...
+C:\Users\ormj6\schedulingapp\testing.java:34: error: illegal start of type
+            if (Class1Grade.equalsIgnoreCase(Yes)){
+            ^
+C:\Users\ormj6\schedulingapp\testing.java:34: error: <identifier> expected
+            if (Class1Grade.equalsIgnoreCase(Yes)){
+                                            ^
+C:\Users\ormj6\schedulingapp\testing.java:34: error: <identifier> expected
+            if (Class1Grade.equalsIgnoreCase(Yes)){
+                                                ^
+C:\Users\ormj6\schedulingapp\testing.java:34: error: ';' expected
+            if (Class1Grade.equalsIgnoreCase(Yes)){
+                                                 ^
+C:\Users\ormj6\schedulingapp\testing.java:40: error: illegal start of type
+            if (Class2Grade.equalsIgnoreCase(Yes)){
+            ^
+C:\Users\ormj6\schedulingapp\testing.java:40: error: <identifier> expected
+            if (Class2Grade.equalsIgnoreCase(Yes)){
+                                            ^
+C:\Users\ormj6\schedulingapp\testing.java:40: error: <identifier> expected
+            if (Class2Grade.equalsIgnoreCase(Yes)){
+                                                ^
+C:\Users\ormj6\schedulingapp\testing.java:40: error: ';' expected
+            if (Class2Grade.equalsIgnoreCase(Yes)){
+                                                 ^
+C:\Users\ormj6\schedulingapp\testing.java:47: error: illegal start of type
+            if (Class3Grade.equalsIgnoreCase(Yes)){
+            ^
+C:\Users\ormj6\schedulingapp\testing.java:47: error: <identifier> expected
+            if (Class3Grade.equalsIgnoreCase(Yes)){
+                                            ^
+C:\Users\ormj6\schedulingapp\testing.java:47: error: <identifier> expected
+            if (Class3Grade.equalsIgnoreCase(Yes)){
+                                                ^
+C:\Users\ormj6\schedulingapp\testing.java:47: error: ';' expected
+            if (Class3Grade.equalsIgnoreCase(Yes)){
+                                                 ^
+C:\Users\ormj6\schedulingapp\testing.java:54: error: illegal start of type
+            if (Class4Grade.equalsIgnoreCase(Yes)){
+            ^
+C:\Users\ormj6\schedulingapp\testing.java:54: error: <identifier> expected
+            if (Class4Grade.equalsIgnoreCase(Yes)){
+                                            ^
+C:\Users\ormj6\schedulingapp\testing.java:54: error: <identifier> expected
+            if (Class4Grade.equalsIgnoreCase(Yes)){
+                                                ^
+C:\Users\ormj6\schedulingapp\testing.java:54: error: ';' expected
+            if (Class4Grade.equalsIgnoreCase(Yes)){
+                                                 ^
+C:\Users\ormj6\schedulingapp\testing.java:61: error: illegal start of type
+            if (Class5Grade.equalsIgnoreCase(Yes)){
+            ^
+C:\Users\ormj6\schedulingapp\testing.java:61: error: <identifier> expected
+            if (Class5Grade.equalsIgnoreCase(Yes)){
+                                            ^
+C:\Users\ormj6\schedulingapp\testing.java:61: error: <identifier> expected
+            if (Class5Grade.equalsIgnoreCase(Yes)){
+                                                ^
+C:\Users\ormj6\schedulingapp\testing.java:61: error: ';' expected
+            if (Class5Grade.equalsIgnoreCase(Yes)){
+                                                 ^
+C:\Users\ormj6\schedulingapp\testing.java:67: error: illegal start of type
+            if (Class6Grade.equalsIgnoreCase(Yes)){
+            ^
+C:\Users\ormj6\schedulingapp\testing.java:67: error: <identifier> expected
+            if (Class6Grade.equalsIgnoreCase(Yes)){
+                                            ^
+C:\Users\ormj6\schedulingapp\testing.java:67: error: <identifier> expected
+            if (Class6Grade.equalsIgnoreCase(Yes)){
+                                                ^
+C:\Users\ormj6\schedulingapp\testing.java:67: error: ';' expected
+            if (Class6Grade.equalsIgnoreCase(Yes)){
+                                                 ^
+C:\Users\ormj6\schedulingapp\testing.java:109: error: illegal start of type
+         if ((Class1CurrentGradeint>= 5) && (Class1GradeWanted1int -  Class1CurrentGradeint < 2)){
+         ^
+C:\Users\ormj6\schedulingapp\testing.java:109: error: <identifier> expected
+         if ((Class1CurrentGradeint>= 5) && (Class1GradeWanted1int -  Class1CurrentGradeint < 2)){
+                                   ^
+C:\Users\ormj6\schedulingapp\testing.java:109: error: <identifier> expected
+         if ((Class1CurrentGradeint>= 5) && (Class1GradeWanted1int -  Class1CurrentGradeint < 2)){
+                                                                  ^
+C:\Users\ormj6\schedulingapp\testing.java:109: error: illegal start of type
+         if ((Class1CurrentGradeint>= 5) && (Class1GradeWanted1int -  Class1CurrentGradeint < 2)){
+                                                                                              ^
+C:\Users\ormj6\schedulingapp\testing.java:114: error: illegal start of type
+        else 
+        ^
+C:\Users\ormj6\schedulingapp\testing.java:119: error: illegal start of type
+               if ((Class2CurrentGradeint>= 5) && (Class2GradeWanted2int -  Class2CurrentGradeint < 2)){
+               ^
+C:\Users\ormj6\schedulingapp\testing.java:119: error: <identifier> expected
+               if ((Class2CurrentGradeint>= 5) && (Class2GradeWanted2int -  Class2CurrentGradeint < 2)){
+                                         ^
+C:\Users\ormj6\schedulingapp\testing.java:119: error: <identifier> expected
+               if ((Class2CurrentGradeint>= 5) && (Class2GradeWanted2int -  Class2CurrentGradeint < 2)){
+                                                                        ^
+C:\Users\ormj6\schedulingapp\testing.java:119: error: illegal start of type
+               if ((Class2CurrentGradeint>= 5) && (Class2GradeWanted2int -  Class2CurrentGradeint < 2)){
+                                                                                                    ^
+C:\Users\ormj6\schedulingapp\testing.java:124: error: illegal start of type
+        else 
+        ^
+C:\Users\ormj6\schedulingapp\testing.java:129: error: illegal start of type
+                 if ((Class3CurrentGradeint>= 5) && (Class3GradeWanted3int -  Class3CurrentGradeint < 2)){
+                 ^
+C:\Users\ormj6\schedulingapp\testing.java:129: error: <identifier> expected
+                 if ((Class3CurrentGradeint>= 5) && (Class3GradeWanted3int -  Class3CurrentGradeint < 2)){
+                                           ^
+C:\Users\ormj6\schedulingapp\testing.java:129: error: <identifier> expected
+                 if ((Class3CurrentGradeint>= 5) && (Class3GradeWanted3int -  Class3CurrentGradeint < 2)){
+                                                                          ^
+C:\Users\ormj6\schedulingapp\testing.java:129: error: illegal start of type
+                 if ((Class3CurrentGradeint>= 5) && (Class3GradeWanted3int -  Class3CurrentGradeint < 2)){
+                                                                                                      ^
+C:\Users\ormj6\schedulingapp\testing.java:134: error: illegal start of type
+        else 
+        ^
+C:\Users\ormj6\schedulingapp\testing.java:139: error: illegal start of type
+                 if ((Class4CurrentGradeint>= 5) && (Class4GradeWanted4int -  Class4CurrentGradeint < 2)){
+                 ^
+C:\Users\ormj6\schedulingapp\testing.java:139: error: <identifier> expected
+                 if ((Class4CurrentGradeint>= 5) && (Class4GradeWanted4int -  Class4CurrentGradeint < 2)){
+                                           ^
+C:\Users\ormj6\schedulingapp\testing.java:139: error: <identifier> expected
+                 if ((Class4CurrentGradeint>= 5) && (Class4GradeWanted4int -  Class4CurrentGradeint < 2)){
+                                                                          ^
+C:\Users\ormj6\schedulingapp\testing.java:139: error: illegal start of type
+                 if ((Class4CurrentGradeint>= 5) && (Class4GradeWanted4int -  Class4CurrentGradeint < 2)){
+                                                                                                      ^
+C:\Users\ormj6\schedulingapp\testing.java:144: error: illegal start of type
+        else 
+        ^
+C:\Users\ormj6\schedulingapp\testing.java:149: error: illegal start of type
+                 if ((Class5CurrentGradeint>= 5) && (Class5GradeWanted5int -  Class5CurrentGradeint < 2)){
+                 ^
+C:\Users\ormj6\schedulingapp\testing.java:149: error: <identifier> expected
+                 if ((Class5CurrentGradeint>= 5) && (Class5GradeWanted5int -  Class5CurrentGradeint < 2)){
+                                           ^
+C:\Users\ormj6\schedulingapp\testing.java:149: error: <identifier> expected
+                 if ((Class5CurrentGradeint>= 5) && (Class5GradeWanted5int -  Class5CurrentGradeint < 2)){
+                                                                          ^
+C:\Users\ormj6\schedulingapp\testing.java:149: error: illegal start of type
+                 if ((Class5CurrentGradeint>= 5) && (Class5GradeWanted5int -  Class5CurrentGradeint < 2)){
+                                                                                                      ^
+C:\Users\ormj6\schedulingapp\testing.java:154: error: illegal start of type
+        else 
+        ^
+C:\Users\ormj6\schedulingapp\testing.java:159: error: illegal start of type
+                 if ((Class6CurrentGradeint>= 5) && (Class6GradeWanted6int -  Class6CurrentGradeint < 2)){
+                 ^
+C:\Users\ormj6\schedulingapp\testing.java:159: error: <identifier> expected
+                 if ((Class6CurrentGradeint>= 5) && (Class6GradeWanted6int -  Class6CurrentGradeint < 2)){
+                                           ^
+C:\Users\ormj6\schedulingapp\testing.java:159: error: <identifier> expected
+                 if ((Class6CurrentGradeint>= 5) && (Class6GradeWanted6int -  Class6CurrentGradeint < 2)){
+                                                                          ^
+C:\Users\ormj6\schedulingapp\testing.java:159: error: illegal start of type
+                 if ((Class6CurrentGradeint>= 5) && (Class6GradeWanted6int -  Class6CurrentGradeint < 2)){
+                                                                                                      ^
+C:\Users\ormj6\schedulingapp\testing.java:164: error: illegal start of type
+        else 
+        ^
+C:\Users\ormj6\schedulingapp\testing.java:180: error: illegal start of type
+        if (Class1TestUpcoming.equalsIgnoreCase(Yes)){
+        ^
+C:\Users\ormj6\schedulingapp\testing.java:180: error: <identifier> expected
+        if (Class1TestUpcoming.equalsIgnoreCase(Yes)){
+                                               ^
+C:\Users\ormj6\schedulingapp\testing.java:180: error: <identifier> expected
+        if (Class1TestUpcoming.equalsIgnoreCase(Yes)){
+                                                   ^
+C:\Users\ormj6\schedulingapp\testing.java:180: error: ';' expected
+        if (Class1TestUpcoming.equalsIgnoreCase(Yes)){
+                                                    ^
+C:\Users\ormj6\schedulingapp\testing.java:187: error: illegal start of type
+            if (Class2TestUpcoming.equalsIgnoreCase(Yes)){
+            ^
+C:\Users\ormj6\schedulingapp\testing.java:187: error: <identifier> expected
+            if (Class2TestUpcoming.equalsIgnoreCase(Yes)){
+                                                   ^
+C:\Users\ormj6\schedulingapp\testing.java:187: error: <identifier> expected
+            if (Class2TestUpcoming.equalsIgnoreCase(Yes)){
+                                                       ^
+C:\Users\ormj6\schedulingapp\testing.java:187: error: ';' expected
+            if (Class2TestUpcoming.equalsIgnoreCase(Yes)){
+                                                        ^
+C:\Users\ormj6\schedulingapp\testing.java:193: error: illegal start of type
+            if (Class3TestUpcoming.equalsIgnoreCase(Yes)){
+            ^
+C:\Users\ormj6\schedulingapp\testing.java:193: error: <identifier> expected
+            if (Class3TestUpcoming.equalsIgnoreCase(Yes)){
+                                                   ^
+C:\Users\ormj6\schedulingapp\testing.java:193: error: <identifier> expected
+            if (Class3TestUpcoming.equalsIgnoreCase(Yes)){
+                                                       ^
+C:\Users\ormj6\schedulingapp\testing.java:193: error: ';' expected
+            if (Class3TestUpcoming.equalsIgnoreCase(Yes)){
+                                                        ^
+C:\Users\ormj6\schedulingapp\testing.java:200: error: illegal start of type
+            if (Class4TestUpcoming.equalsIgnoreCase(Yes)){
+            ^
+C:\Users\ormj6\schedulingapp\testing.java:200: error: <identifier> expected
+            if (Class4TestUpcoming.equalsIgnoreCase(Yes)){
+                                                   ^
+C:\Users\ormj6\schedulingapp\testing.java:200: error: <identifier> expected
+            if (Class4TestUpcoming.equalsIgnoreCase(Yes)){
+                                                       ^
+C:\Users\ormj6\schedulingapp\testing.java:200: error: ';' expected
+            if (Class4TestUpcoming.equalsIgnoreCase(Yes)){
+                                                        ^
+C:\Users\ormj6\schedulingapp\testing.java:207: error: illegal start of type
+            if (Class5TestUpcoming.equalsIgnoreCase(Yes)){
+            ^
+C:\Users\ormj6\schedulingapp\testing.java:207: error: <identifier> expected
+            if (Class5TestUpcoming.equalsIgnoreCase(Yes)){
+                                                   ^
+C:\Users\ormj6\schedulingapp\testing.java:207: error: <identifier> expected
+            if (Class5TestUpcoming.equalsIgnoreCase(Yes)){
+                                                       ^
+C:\Users\ormj6\schedulingapp\testing.java:207: error: ';' expected
+            if (Class5TestUpcoming.equalsIgnoreCase(Yes)){
+                                                        ^
+C:\Users\ormj6\schedulingapp\testing.java:214: error: illegal start of type
+            if (Class6TestUpcoming.equalsIgnoreCase(Yes)){
+            ^
+C:\Users\ormj6\schedulingapp\testing.java:214: error: <identifier> expected
+            if (Class6TestUpcoming.equalsIgnoreCase(Yes)){
+                                                   ^
+C:\Users\ormj6\schedulingapp\testing.java:214: error: <identifier> expected
+            if (Class6TestUpcoming.equalsIgnoreCase(Yes)){
+                                                       ^
+C:\Users\ormj6\schedulingapp\testing.java:214: error: ';' expected
+            if (Class6TestUpcoming.equalsIgnoreCase(Yes)){
+                                                        ^
+C:\Users\ormj6\schedulingapp\testing.java:244: error: illegal start of type
+        if (Class1IsHard1.equalsIgnoreCase(VeryHard )){
+        ^
+C:\Users\ormj6\schedulingapp\testing.java:244: error: <identifier> expected
+        if (Class1IsHard1.equalsIgnoreCase(VeryHard )){
+                                          ^
+C:\Users\ormj6\schedulingapp\testing.java:244: error: <identifier> expected
+        if (Class1IsHard1.equalsIgnoreCase(VeryHard )){
+                                                   ^
+C:\Users\ormj6\schedulingapp\testing.java:244: error: ';' expected
+        if (Class1IsHard1.equalsIgnoreCase(VeryHard )){
+                                                     ^
+C:\Users\ormj6\schedulingapp\testing.java:249: error: illegal start of type
+        else if (Class1IsHard1.equalsIgnoreCase(Hard))
+        ^
+C:\Users\ormj6\schedulingapp\testing.java:249: error: <identifier> expected
+        else if (Class1IsHard1.equalsIgnoreCase(Hard))
+                                               ^
+C:\Users\ormj6\schedulingapp\testing.java:249: error: <identifier> expected
+        else if (Class1IsHard1.equalsIgnoreCase(Hard))
+                                                    ^
+C:\Users\ormj6\schedulingapp\testing.java:249: error: ';' expected
+        else if (Class1IsHard1.equalsIgnoreCase(Hard))
+                                                     ^
+C:\Users\ormj6\schedulingapp\testing.java:253: error: illegal start of type
+        else if(Class1IsHard1.equalsIgnoreCase(Average ))
+        ^
+C:\Users\ormj6\schedulingapp\testing.java:253: error: <identifier> expected
+        else if(Class1IsHard1.equalsIgnoreCase(Average ))
+                                              ^
+C:\Users\ormj6\schedulingapp\testing.java:253: error: <identifier> expected
+        else if(Class1IsHard1.equalsIgnoreCase(Average ))
+                                                      ^
+C:\Users\ormj6\schedulingapp\testing.java:253: error: ';' expected
+        else if(Class1IsHard1.equalsIgnoreCase(Average ))
+                                                        ^
+C:\Users\ormj6\schedulingapp\testing.java:257: error: illegal start of type
+          else if(Class1IsHard1.equalsIgnoreCase(Easy ))
+          ^
+C:\Users\ormj6\schedulingapp\testing.java:257: error: <identifier> expected
+          else if(Class1IsHard1.equalsIgnoreCase(Easy ))
+                                                ^
+C:\Users\ormj6\schedulingapp\testing.java:257: error: <identifier> expected
+          else if(Class1IsHard1.equalsIgnoreCase(Easy ))
+                                                     ^
+C:\Users\ormj6\schedulingapp\testing.java:257: error: ';' expected
+          else if(Class1IsHard1.equalsIgnoreCase(Easy ))
+                                                       ^
+C:\Users\ormj6\schedulingapp\testing.java:261: error: illegal start of type
+          else if(Class1IsHard1.equalsIgnoreCase( VeryEasy ))
+          ^
+C:\Users\ormj6\schedulingapp\testing.java:261: error: <identifier> expected
+          else if(Class1IsHard1.equalsIgnoreCase( VeryEasy ))
+                                                ^
+C:\Users\ormj6\schedulingapp\testing.java:261: error: <identifier> expected
+          else if(Class1IsHard1.equalsIgnoreCase( VeryEasy ))
+                                                          ^
+C:\Users\ormj6\schedulingapp\testing.java:261: error: ';' expected
+          else if(Class1IsHard1.equalsIgnoreCase( VeryEasy ))
+                                                            ^
+C:\Users\ormj6\schedulingapp\testing.java:266: error: illegal start of type
+        if (Class2IsHard2.equalsIgnoreCase(VeryHard )){
+        ^
+C:\Users\ormj6\schedulingapp\testing.java:266: error: <identifier> expected
+        if (Class2IsHard2.equalsIgnoreCase(VeryHard )){
+                                          ^
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\ormj6\schedulingapp\doc\allclasses.html...
+Generating C:\Users\ormj6\schedulingapp\doc\allclasses.html...
+Generating C:\Users\ormj6\schedulingapp\doc\index.html...
+100 errors
